@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\YouiTest\Youi\bin\Debug\Youi.exe.config
+C:\Users\Administrator\Desktop\YouiTest\Youi\bin\Debug\Youi.exe
+C:\Users\Administrator\Desktop\YouiTest\Youi\bin\Debug\Youi.pdb
+C:\Users\Administrator\Desktop\YouiTest\Youi\obj\Debug\Youi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\YouiTest\Youi\obj\Debug\Youi.exe
+C:\Users\Administrator\Desktop\YouiTest\Youi\obj\Debug\Youi.pdb
